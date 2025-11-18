@@ -1,213 +1,158 @@
-📘 README — ZoneSocial
+# 📘 README — ZoneSocial
 
-O ZoneSocial é uma plataforma tecnológica criada para apoiar ONGs, iniciativas comunitárias e projetos sociais por meio da inclusão digital, inovação e capacitação.
-Idealizado pela ZoneTech, o projeto oferece ferramentas, treinamentos e soluções acessíveis para transformar vidas através da tecnologia.
+O **ZoneSocial** é uma plataforma criada para apoiar ONGs, iniciativas comunitárias e projetos sociais por meio da tecnologia.  
+Idealizado pela **ZoneTech**, o projeto oferece inclusão digital, capacitação, suporte técnico e soluções acessíveis para transformar vidas.  
 
-🌟 Visão Geral
+------------------------------------------------------------
 
-O site foi construído com foco em:
+## 🌟 Visão Geral
 
-HTML5 semântico
+O site foi desenvolvido utilizando:
 
-CSS moderno e responsivo
+- 🧩 HTML5 semântico  
+- 🎨 CSS moderno e responsivo  
+- ⚡ JavaScript simples para validações  
+- ♿ Boas práticas de acessibilidade  
+- 🖼️ Imagens ilustradas exclusivas  
 
-Boas práticas de acessibilidade
+O objetivo é apresentar os serviços, projetos e frentes de atuação da ZoneSocial de forma clara e profissional.
 
-Imagens ilustradas exclusivas
+------------------------------------------------------------
 
-Estrutura leve e intuitiva
+## 🗂️ Páginas do Projeto
 
-Foco no terceiro setor e inclusão digital
+### 🏠 1. Página Inicial (index.html)
+Contém:
+- Banner principal (Hero)
+- Sessão "Nossa História"
+- Sessão "O que fazemos"
+- Cartões dos serviços
+- Layout totalmente responsivo
 
-🗂️ Páginas do Projeto
-🏠 Página Inicial
+### 📚 2. Projetos (projetos.html)
+Inclui os projetos:
+- 📖 Apoio à Educação
+- 💻 Inclusão Digital
+- 🤝 Voluntariado Técnico
+- 🧪 Laboratório de Tecnologia Comunitária
+- 👵 Conectando Gerações
+- 🔄 Tech Recicla
+- 🚀 Rota da Inovação Social
 
-A Home apresenta:
+### 📝 3. Cadastro (cadastro.html)
+Formulário com:
+- Nome completo  
+- Email  
+- CPF  
+- Telefone  
+- CEP  
+Validação HTML5 + máscaras via JavaScript.
 
-Hero com mensagem principal
-
-Sessão "Nossa História"
-
-Sessão "O que fazemos" com cartões de serviços
-
-Layout responsivo e consistente
-
-📚 Projetos
-
-Lista dos principais projetos sociais:
-
-Apoio à Educação
-
-Inclusão Digital
-
-Voluntariado Técnico
-
-Laboratório de Tecnologia Comunitária
-
-Conectando Gerações
-
-Tech Recicla
-
-Rota da Inovação Social
-
-Cada projeto possui imagem ilustrada e descrição.
-
-📝 Cadastro
-
-Formulário completo com:
-
-Nome
-
-E-mail
-
-CPF (com máscara)
-
-Telefone (com máscara)
-
-CEP (com máscara)
-
-Validação nativa HTML5 + JavaScript.
-
-📞 Contato
-
+### 📞 4. Contato (contato.html)
 Inclui:
+- Email  
+- Telefone  
+- Endereço  
+- Formulário de mensagem  
+- Mapa incorporado (Google Maps)
 
-Email e telefone
+------------------------------------------------------------
 
-Endereço
+## 🧰 Serviços Oferecidos
 
-Formulário para envio de mensagem
-
-Google Maps embed
-
-🧩 Serviços Oferecidos
-
-A ZoneSocial oferece seis serviços principais:
-
-✔ Oficinas e Capacitação
-
+### 🧑‍🏫 Oficinas e Capacitação
 Treinamentos digitais, alfabetização tecnológica e cursos introdutórios.
 
-✔ Suporte Técnico
+### 🛠️ Suporte Técnico
+Instalação, manutenção e orientação sobre infraestrutura básica.
 
-Instalação, manutenção e apoio em infraestrutura básica.
+### 🌐 Desenvolvimento Web Comunitário
+Criação de sites simples, funcionais e acessíveis para organizações sociais.
 
-✔ Desenvolvimento Web Comunitário
+### 👨‍💻 Mentoria em Carreira Digital
+Orientação profissional, trilhas de estudo, portfólio e preparação para entrevistas.
 
-Criação de sites simples, funcionais e acessíveis.
+### 🔐 Consultoria em Cibersegurança
+Proteção de dados, backup, segurança e boas práticas digitais.
 
-✔ Mentoria em Carreira Digital
+### 📊 Treinamentos em Ferramentas de Gestão
+Google Workspace, Trello, Canva, automações básicas e mais.
 
-Apoio profissional, orientação de carreira e criação de portfólio.
+------------------------------------------------------------
 
-✔ Consultoria em Cibersegurança
+## 🖼️ Imagens Ilustrativas
 
-Proteção de dados, segurança digital e boas práticas.
+O projeto utiliza ilustrações criadas em estilo digital flat representando:
 
-✔ Treinamentos em Ferramentas de Gestão
+- 🧪 Laboratório de Tecnologia Comunitária  
+- 👵 Conectando Gerações  
+- 🔄 Tech Recicla  
+- 🚀 Rota da Inovação Social  
+- 📖 Apoio à Educação  
+- 💻 Inclusão Digital  
 
-Trello, Canva, Google Workspace e ferramentas de produtividade.
+As imagens estão na pasta:  
+`assets/images/`
 
-🖼️ Ilustrações Exclusivas
+------------------------------------------------------------
 
-O projeto conta com 6 ilustrações oficiais criadas especialmente para representar:
+## 🛠️ Tecnologias Utilizadas
 
-Laboratório de Tecnologia Comunitária
+### Frontend
+- ⚙️ HTML5  
+- 🎨 CSS3 com variáveis e grids  
+- ⚡ JavaScript (máscaras e validação)  
+- 🖼️ Imagens WEBP otimizadas  
 
-Conectando Gerações
+### Outros recursos
+- 📌 SVG no logotipo  
+- 🔎 SEO básico  
+- ♿ Acessibilidade WCAG  
 
-Tech Recicla
+------------------------------------------------------------
 
-Rota da Inovação Social
+## 📁 Estrutura do Projeto
 
-Apoio à Educação
-
-Inclusão Digital
-
-🛠️ Tecnologias Utilizadas
-
-Frontend
-
-HTML5
-
-CSS3 (com variáveis e responsive grid)
-
-JavaScript puro
-
-Formulários com máscaras e validação
-
-Outros
-
-Imagens WEBP otimizadas
-
-Iconografia suave via SVG
-
-Acessibilidade WCAG
-
-SEO básico aplicado
-
-📁 Estrutura do Projeto
-ZoneSocial/
-│── index.html
-│── projetos.html
-│── cadastro.html
-│── contato.html
+ZoneSocial  
+│ index.html  
+│ projetos.html  
+│ cadastro.html  
+│ contato.html  
+│  
+├── assets  
+│   ├── css  
+│   │   └── style.css  
+│   ├── js  
+│   │   └── main.js  
+│   └── images  
+│       (todas as ilustrações e logo)  
 │
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── main.js
-│   └── images/
-│       ├── logo.svg
-│       ├── illustration_1.webp
-│       ├── illustration_2.webp
-│       ├── illustration_3.webp
-│       ├── ilustratordwc.fw.png
-│       ├── ilustratormcd.fw.png
-│       ├── ilustratorcc.fw.png
-│       └── (outros arquivos de imagens)
-│
-└── docs/
+└── docs  
     └── relatorio-transparencia.html
 
-🌐 Publicação no GitHub Pages
+------------------------------------------------------------
 
-Após subir o projeto:
+## 🌐 Publicação no GitHub Pages
 
-Vá em Settings > Pages
+1. Vá em **Settings**  
+2. Clique em **Pages**  
+3. Em Branch: selecione **main**  
+4. Em Pasta: selecione **root**  
+5. Clique em Save  
 
-Selecione:
-
-Branch: main
-
-Folder: / (root)
-
-Clique em Save
-
-Seu site ficará disponível em:
-
+Seu site ficará disponível em:  
 https://FelipeHenriqueSilva.github.io/ZoneSocial/
 
-🤝 Contribuição
+------------------------------------------------------------
 
-Sinta-se à vontade para:
+## 📬 Contato
 
-Abrir issues
+📧 Email: contato@zonesocial.org  
+📞 Telefone: +55 (11) 99999-9999  
 
-Sugerir melhorias
+------------------------------------------------------------
 
-Criar novos serviços/projetos
+## ❤️ Créditos
 
-Otimizar código
-
-📬 Contato
-
-📧 Email: contato@zonesocial.org
-
-📞 Telefone: +55 (11) 99999-9999
-
-❤️ Créditos
-
-ZoneSocial — Idealizado pela ZoneTech
-Construído com tecnologia, propósito e impacto social.
+**ZoneSocial — Idealizado pela ZoneTech**  
+Criado com tecnologia, propósito e impacto social.
