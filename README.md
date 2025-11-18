@@ -1,39 +1,40 @@
 📘 README — ZoneSocial
 
-ZoneSocial é uma plataforma criada para apoiar ONGs, projetos sociais e comunidades através da tecnologia.
-Idealizada pela ZoneTech, a iniciativa promove inclusão digital, capacitação, suporte técnico, inovação e transformação social por meio de soluções acessíveis e modernas.
+O ZoneSocial é uma plataforma tecnológica criada para apoiar ONGs, iniciativas comunitárias e projetos sociais por meio da inclusão digital, inovação e capacitação.
+Idealizado pela ZoneTech, o projeto oferece ferramentas, treinamentos e soluções acessíveis para transformar vidas através da tecnologia.
 
-O projeto inclui um site institucional completo — responsivo, acessível e otimizado — com páginas de Início, Projetos, Cadastro e Contato, além de uma coleção de imagens ilustradas criadas por IA no estilo flat digital.
+🌟 Visão Geral
 
-🚀 Visão Geral do Projeto
+O site foi construído com foco em:
 
-A ZoneSocial foi desenvolvida com o objetivo de fornecer um espaço digital moderno e funcional para apresentar serviços, projetos, qualificações e valores da ONG.
-O site utiliza princípios de HTML5 semântico, CSS responsivo, boas práticas de acessibilidade e foco em usabilidade.
+HTML5 semântico
 
-🎨 Páginas do Site
-1. Home (index.html)
+CSS moderno e responsivo
 
-Seção Hero com chamada principal
+Boas práticas de acessibilidade
 
-Nossa História
+Imagens ilustradas exclusivas
 
-Seção "O que Fazemos" com 6 serviços:
+Estrutura leve e intuitiva
 
-Oficinas e Capacitação
+Foco no terceiro setor e inclusão digital
 
-Suporte Técnico
+🗂️ Páginas do Projeto
+🏠 Página Inicial
 
-Desenvolvimento Web Comunitário
+A Home apresenta:
 
-Mentoria em Carreira Digital
+Hero com mensagem principal
 
-Consultoria em Cibersegurança
+Sessão "Nossa História"
 
-Treinamentos em Ferramentas de Gestão
+Sessão "O que fazemos" com cartões de serviços
 
-2. Projetos (projetos.html)
+Layout responsivo e consistente
 
-Listagem de projetos com cards e imagens ilustradas:
+📚 Projetos
+
+Lista dos principais projetos sociais:
 
 Apoio à Educação
 
@@ -49,9 +50,9 @@ Tech Recicla
 
 Rota da Inovação Social
 
-Cada card contém imagem + título + descrição.
+Cada projeto possui imagem ilustrada e descrição.
 
-3. Cadastro (cadastro.html)
+📝 Cadastro
 
 Formulário completo com:
 
@@ -65,48 +66,51 @@ Telefone (com máscara)
 
 CEP (com máscara)
 
-Formulário válido em HTML5 e integrado ao JavaScript para validação e limpeza automática.
+Validação nativa HTML5 + JavaScript.
 
-4. Contato (contato.html)
+📞 Contato
 
-Página com:
+Inclui:
 
-Informações de email, telefone e endereço
+Email e telefone
 
-Formulário de contato funcional
+Endereço
 
-Mapa incorporado (Google Maps embed)
+Formulário para envio de mensagem
 
-Estilo moderno e consistente
+Google Maps embed
 
-🧩 Serviços da ZoneSocial
+🧩 Serviços Oferecidos
+
+A ZoneSocial oferece seis serviços principais:
+
+✔ Oficinas e Capacitação
+
+Treinamentos digitais, alfabetização tecnológica e cursos introdutórios.
+
+✔ Suporte Técnico
+
+Instalação, manutenção e apoio em infraestrutura básica.
+
 ✔ Desenvolvimento Web Comunitário
 
-Sites acessíveis, simples e fáceis de atualizar para ONGs.
+Criação de sites simples, funcionais e acessíveis.
 
 ✔ Mentoria em Carreira Digital
 
-Apoio para quem quer iniciar carreira em tecnologia.
+Apoio profissional, orientação de carreira e criação de portfólio.
 
 ✔ Consultoria em Cibersegurança
 
-Diagnóstico, segurança, backups e boas práticas digitais.
+Proteção de dados, segurança digital e boas práticas.
 
 ✔ Treinamentos em Ferramentas de Gestão
 
-Google Workspace, Trello, Canva, Microsoft 365 e mais.
+Trello, Canva, Google Workspace e ferramentas de produtividade.
 
-✔ Manutenção e Recondicionamento de Equipamentos
+🖼️ Ilustrações Exclusivas
 
-Recuperação e entrega de PCs para comunidades carentes.
-
-✔ Apoio a Projetos de Inovação Social
-
-Automação, dashboards, formulários inteligentes e soluções digitais.
-
-🖼️ Imagens Ilustradas
-
-Foram criadas 6 ilustrações originais via IA para representar os temas:
+O projeto conta com 6 ilustrações oficiais criadas especialmente para representar:
 
 Laboratório de Tecnologia Comunitária
 
@@ -120,29 +124,90 @@ Apoio à Educação
 
 Inclusão Digital
 
-E mais várias ilustrações internas para serviços e seções principais.
-
 🛠️ Tecnologias Utilizadas
+
 Frontend
 
-HTML5 semântico
+HTML5
 
-CSS3 com variáveis e layout responsivo
+CSS3 (com variáveis e responsive grid)
 
 JavaScript puro
 
-Grid e Flexbox
+Formulários com máscaras e validação
 
-Máscaras automáticas (CPF, telefone, CEP)
+Outros
 
-Outros recursos
+Imagens WEBP otimizadas
 
-SVG otimizados
+Iconografia suave via SVG
 
-Imagens em formato WEBP
+Acessibilidade WCAG
 
-Estrutura organizada em pastas
+SEO básico aplicado
 
-Padrões de acessibilidade (WCAG)
+📁 Estrutura do Projeto
+ZoneSocial/
+│── index.html
+│── projetos.html
+│── cadastro.html
+│── contato.html
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   └── images/
+│       ├── logo.svg
+│       ├── illustration_1.webp
+│       ├── illustration_2.webp
+│       ├── illustration_3.webp
+│       ├── ilustratordwc.fw.png
+│       ├── ilustratormcd.fw.png
+│       ├── ilustratorcc.fw.png
+│       └── (outros arquivos de imagens)
+│
+└── docs/
+    └── relatorio-transparencia.html
 
-SEO básico implementado
+🌐 Publicação no GitHub Pages
+
+Após subir o projeto:
+
+Vá em Settings > Pages
+
+Selecione:
+
+Branch: main
+
+Folder: / (root)
+
+Clique em Save
+
+Seu site ficará disponível em:
+
+https://FelipeHenriqueSilva.github.io/ZoneSocial/
+
+🤝 Contribuição
+
+Sinta-se à vontade para:
+
+Abrir issues
+
+Sugerir melhorias
+
+Criar novos serviços/projetos
+
+Otimizar código
+
+📬 Contato
+
+📧 Email: contato@zonesocial.org
+
+📞 Telefone: +55 (11) 99999-9999
+
+❤️ Créditos
+
+ZoneSocial — Idealizado pela ZoneTech
+Construído com tecnologia, propósito e impacto social.
